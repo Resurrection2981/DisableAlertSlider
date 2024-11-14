@@ -5,5 +5,5 @@ You can also use for redirect the slider action to trigger other fuction via Tas
 
 #
 
-### 此 magisk 模块用于禁用 Color OS 或 Oxygen OS 上的警报滑块，已在 Color OS 14 上测试。
+### 该 Magisk 模块用于禁用 Color OS 或 Oxygen OS 上的三段式开关，已在 Color OS 14 上测试。
 您还可以配合 Tasker 或其他自动化工具它来重定向滑块操作的触发动作。
