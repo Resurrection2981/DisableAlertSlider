@@ -1,0 +1,7 @@
+id=disable.alert.slider
+name=Disable Alert Slider
+version=v1
+versionCode=1
+author=Resurrection
+description= 禁用黑厂三段式的响应，方便重定向为其他功能
+updateJson=https://raw.githubusercontent.com/Resurrection2981/DisableAlertSlider/main/update.json
